@@ -17,7 +17,7 @@ This repository is designed to help you learn PHP from the ground up. It covers 
 
 To get started with this repository, follow these steps:
 
-1. **Clone the repository**:
+1. **Clone the repository [repository](lessons/topics/1. Introduction to programming in PHP)**:
    ```bash
    git clone https://github.com/AxelProgrammer/php-learning.git
 
@@ -33,8 +33,11 @@ To get started with this repository, follow these steps:
 
 ***📚 Table of Contents***   
 
-1. [Introduction to Programming in PHP](lessons/topics/1-Introduction-to-programming-in-PHP/1.1-Concepts/README.md)  
-1.1 [Concepts](lessons/topics/1-Introduction-to-programming-in-PHP/1.1-Concepts/README.md)
+1. [Introduction to Programming in PHP](lessons/topics/1-Introduction_to_programming_in_PHP)  
+[1.1 Concepts](lessons/topics/1-Introduction_to_programming_in_PHP/1.1-Concepts/README.md)  
+[1.2 Why do we need PHP language](lessons/topics/1-Introduction_to_programming_in_PHP/1.2-Why_do_we_need_PHP_language/README.md)  
+[1.3 PHP Application Environment. Installation](lessons/topics/1-Introduction_to_programming_in_PHP/1.3-PHP_Application_Environment_Installation/README.md)  
+[1.4 Running PHP scripts](lessons/topics/1-Introduction_to_programming_in_PHP/1.4-Running_PHP_scripts/README.md)  
 
 Variables, Numbers, and Boolean
 
