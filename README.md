@@ -23,11 +23,11 @@ To get started with this repository, follow these steps:
 
 2. **Navigate to the desired topic**:
     
-        Each topic contains a README.md with theory, a task.md with exercises, and a solution.php with the solution.
+    Each topic contains a README.md with theory, a task.md with exercises, and a solution.php with the solution.
 
 3. **Start learning**:
 
-        Read the theory, complete the exercises, and check your solutions.
+    Read the theory, complete the exercises, and check your solutions.
 
 
 
