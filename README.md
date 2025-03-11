@@ -1,4 +1,4 @@
-<div style="text-align: right;">
+<div align="right">
    <strong>🌍 English Text</strong>
 </div>
 
@@ -78,6 +78,6 @@ Working with Databases in PHP
 Laravel Framework
 
 
-<div style="text-align: right;">
+<div align="right">
    <strong>🌍 Текст на русском</strong>
 </div>
