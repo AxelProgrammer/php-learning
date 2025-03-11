@@ -5,7 +5,7 @@
 # 🐘 PHP Learning
 
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
-![GitHub](https://img.shields.io/github/license/AxelProgrammer/php-learning?style=for-the-badge)  
+![GitHub](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)  
 ![GitHub stars](https://img.shields.io/github/stars/AxelProgrammer/php-learning?style=for-the-badge)  
 ![GitHub contributors](https://img.shields.io/github/contributors/AxelProgrammer/php-learning?style=for-the-badge)  
 
