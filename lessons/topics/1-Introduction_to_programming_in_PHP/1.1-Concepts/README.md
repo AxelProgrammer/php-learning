@@ -1,8 +1,8 @@
 <div align="right">
    <strong>🌍 English Text</strong>
-</div><br>
+</div><br>  
 
-To view Markdown files as formatted text, go to **[MD Preview Launch Guide](lessons/manual.md)** in the **lessons** folder.
+To view Markdown files as formatted text, go to **[MD Preview Launch Guide](https://github.com/AxelProgrammer/php-learning/blob/master/lessons/manual.md)** in the **lessons** folder. In this tutorial, you will find a detailed guide on how to use various tools to view and edit Markdown files.
 
 # 1.1 Concepts
 
@@ -121,9 +121,9 @@ By the end of the course, you will be able to create full-fledged web applicatio
 
 <div align="right">
    <strong>🌍 Текст на русском</strong>
-</div><br>
+</div><br>  
 
-Чтобы просмотреть Markdown-файлы в виде отформатированного текста, перейдите в **[Инструкцию по запуску MD Preview](lessons/manual.md)** в папке **lessons**.
+Чтобы просмотреть Markdown-файлы в виде отформатированного текста, перейдите в **[Инструкцию по запуску MD Preview](https://github.com/AxelProgrammer/php-learning/blob/master/lessons/manual.md)** в папке **lessons**. В этой инструкции вы найдёте подробное руководство по использованию различных инструментов для просмотра и редактирования Markdown-файлов.
 
 # 1.1 Понятия
 
